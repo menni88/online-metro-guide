@@ -1,0 +1,39 @@
+{
+  "name": "graduation_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^3.11.0",
+    "axios": "^1.6.2",
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "firebase-admin": "^12.0.0",
+    "fs-extra": "^11.2.0",
+    "i18next": "^23.7.9",
+    "i18next-fs-backend": "^2.3.1",
+    "i18next-http-middleware": "^3.5.0",
+    "ioredis": "^5.3.2",
+    "jsonwebtoken": "^9.0.2",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^8.0.2",
+    "multer": "^1.4.5-lts.1",
+    "neo4j-driver": "^5.15.0",
+    "ngrok": "^5.0.0-beta.2",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.0.2",
+    "qrcode": "^1.5.3",
+    "redis": "^4.6.13",
+    "twilio": "^4.19.3",
+    "util": "^0.12.5"
+  }
+}
