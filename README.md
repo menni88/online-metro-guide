@@ -15,7 +15,7 @@ Your online experience for navigating metro routes. This project includes a Node
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/online-metro-guide.git
+    git clone https://github.com/menni88/online-metro-guide.git
     ```
 
 2. Navigate to the project directory:
